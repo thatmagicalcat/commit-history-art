@@ -1,7 +1,7 @@
 # Github commit history art generator
 This program creates a repository that contains a bunch of commits which tricks Github into showing the specified commit history art.
 
-Check year 2015 of my commit history.
+Check years 2015~2017 of my commit history.
 
 ## How to use?
 1. Clone this repository.
