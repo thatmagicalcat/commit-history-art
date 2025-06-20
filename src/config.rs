@@ -1,4 +1,4 @@
-pub const YEAR: i32 = 2023;
+pub const YEAR: i32 = 2017;
 
 /// Image dimensions should be 52x7
 pub const IMAGE_PATH: &str = "image.png";
