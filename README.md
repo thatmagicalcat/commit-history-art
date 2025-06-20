@@ -19,5 +19,5 @@ Check year 2015 of my commit history.
     ```
 4. Run the program with `cargo run`.
 <br> *This will generate a new repository with the name `repo` in the root directory of this project.*
-5. Push the repository to Github.
+5. Push `repo` to Github.
 6. Enjoy your art!
